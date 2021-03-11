@@ -1,0 +1,21 @@
+header {
+  background-color: green;
+  text-align: center;
+  padding-top: 100px;
+}
+
+header h1 {
+  color: #fff;
+  font-size: 4rem;
+}
+header > p {
+  margin: 50px auto;
+  width: 60%;
+  line-height: 30px;
+}
+#line {
+  display: block;
+  width: 200px;
+  border-bottom: 1px solid #fff;
+  margin: 0 auto;
+}

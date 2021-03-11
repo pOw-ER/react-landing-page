@@ -1,0 +1,20 @@
+#section2 {
+  padding: 100px 200px;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 50px;
+}
+
+article {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+article img {
+  width: 25px;
+  margin-right: 20px;
+}
+article h4 {
+  margin-top: 0;
+}
